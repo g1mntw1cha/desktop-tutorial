@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+# Игра "Угадай число"
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+суть игры: програма генерирует число, а пользователь должен угадать.
+Программа будет подсказывать больше или меньше
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+И этот проект в обучающих целях создано, не судите строго
